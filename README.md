@@ -1,1 +1,1 @@
-# Next_Word_Prediction using RNN
+# Next_Word_Prediction
